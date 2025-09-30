@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    int num1, num2, small, large;
+    double num1, num2, small, large;
 
     // Module 1: Input
     {
